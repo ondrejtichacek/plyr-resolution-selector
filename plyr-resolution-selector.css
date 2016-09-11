@@ -1,4 +1,11 @@
-plyr__resolution {
+.plyr__resolution {
   margin-left: 10px;
-  color: #565D64;
+  color: white;
+  background-color: transparent;
+  border: none;
+}
+
+.plyr__resolution:hover {
+  color: black;
+  background-color: white;
 }
